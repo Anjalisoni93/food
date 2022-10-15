@@ -24,7 +24,6 @@ const SearchScreen = (searchTerm) => {
     }
   };
 
-
   return (
     <View>
       <SearchBar
